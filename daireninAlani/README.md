@@ -1,0 +1,1 @@
+- patika.dev sitesinden almış olduğum node.js dersinin 1. ödevidir.
