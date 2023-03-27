@@ -1,0 +1,1 @@
+İstenilen yarıçaptaki dairenin alanını ve çevresini bulan ve modüler çalışan JS uygulaması. 
