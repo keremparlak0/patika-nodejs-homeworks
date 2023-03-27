@@ -1,0 +1,1 @@
+- Async/await yapısıyla post ekleyebileceğimiz ve eklediğimiz postla birlikte tüm postları sıralayabileceğimiz bir yapı oluşturdum.
